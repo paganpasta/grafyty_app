@@ -5,4 +5,6 @@ Make sure to set the subject of the email as **[DELETE]**.
 
 We will send you one confirmation email upon receiving the request and another upon successful deletion of your user.
 
+Note: We **only** remove the user and their active graffities.
+
 If you have any more questions or request, feel free to drop me an email.
